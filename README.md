@@ -6,6 +6,7 @@ In my thesis, I proofed that the Vapnik-Chervonenkis dimension (VCD) for concate
 
 # Additional Content
 
+
 - The thesis gives a wide range of methods for easier calculation of VCD.
 - A full proof of the generalization bound of Vapnik is provided, which bounds the overfitting error of a set of functions from above by the VCD of that set.
 - The same bound is also proven using the Rademacher complexity, leading to a sharper bound.
